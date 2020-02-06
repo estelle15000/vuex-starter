@@ -1,11 +1,11 @@
 # vuestate
 
-<b>English</b><br><br>
+<b>English</b><br>
 
 Another Starter, using vuex for largers organisations.<br>
 Vuex is a centralized data store .<br>
 
-<b>French</b><br><br>
+<b>French</b><br>
 
 Vuex permet de centraliser les datas dans un magasin, automatisant la mise à jour des components et évitant les doublons .<br>
 
