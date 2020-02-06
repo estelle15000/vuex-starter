@@ -1,4 +1,4 @@
-# vuestate
+# A vue starter including vuex / Un starter Vue avec VUEX
 
 <b>English</b><br>
 
@@ -13,6 +13,7 @@ Vuex permet de centraliser les datas dans un magasin, automatisant la mise à jo
 <b>Links </b><br>
 
 https://vuex.vuejs.org/<br>
+https://stackoverflow.com/questions/48455175/how-to-get-data-from-api-in-vuex-using-axios/48458134<br>
 https://coursetro.com/posts/code/144/A-Vuex-Tutorial-by-Example---Learn-Vue-State-Management<br>
 https://vuejs.org/v2/guide/state-management.html#Simple-State-Management-from-Scratch<br>
 https://sabe.io/tutorials/getting-started-with-vuex<br>
