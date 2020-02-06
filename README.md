@@ -10,7 +10,7 @@ Vuex is a centralized data store .<br>
 Vuex permet de centraliser les datas dans un magasin, automatisant la mise à jour des components et évitant les doublons .<br>
 
 
-<b>LINKS </b><br><br>
+<b>Links </b><br>
 
 https://vuex.vuejs.org/<br>
 https://coursetro.com/posts/code/144/A-Vuex-Tutorial-by-Example---Learn-Vue-State-Management<br>
