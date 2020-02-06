@@ -1,4 +1,4 @@
-# A vue starter including vuex / Un starter Vue avec VUEX
+# A vue starter including VUEX / Un starter Vue avec VUEX
 
 <b>English</b><br>
 
