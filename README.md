@@ -3,16 +3,19 @@
 <b>English</b><br>
 
 Another Starter, using vuex for largers organisations.<br>
-Vuex is a centralized data store .<br>
+Vuex is a centralized data store . Using it with Axios needs some knowledges<br>
 
 <b>French</b><br>
 
-Vuex permet de centraliser les datas dans un magasin, automatisant la mise à jour des components et évitant les doublons .<br>
+Vuex permet de centraliser les datas dans un magasin, automatisant la mise à jour des components et évitant les doublons .
+L'utilisation est à connaitre, avec Axios .
+<br>
 
 
 <b>Links </b><br>
 
 https://vuex.vuejs.org/<br>
+https://appdividend.com/2018/05/08/vuex-axios-get-request-tutorial-with-example/
 https://stackoverflow.com/questions/48455175/how-to-get-data-from-api-in-vuex-using-axios/48458134<br>
 https://coursetro.com/posts/code/144/A-Vuex-Tutorial-by-Example---Learn-Vue-State-Management<br>
 https://vuejs.org/v2/guide/state-management.html#Simple-State-Management-from-Scratch<br>
